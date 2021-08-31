@@ -9,3 +9,5 @@
 2. 集群服务
     leader选举
     日志分发
+
+# run method
